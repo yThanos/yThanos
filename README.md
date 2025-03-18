@@ -25,7 +25,10 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ### Bancos de Dados
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![DB2](https://img.shields.io/badge/-DB2-054ADA?style=flat-square&logo=ibm&logoColor=white)
 - Experiência com bancos de dados SQL e NoSQL
 
 ### DevOps & Ferramentas
