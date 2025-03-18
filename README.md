@@ -46,7 +46,7 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - 💼 LinkedIn: [linkedin.com/in/vitor-fraporti](https://linkedin.com/in/vitor-fraporti)
 
 ## Estatísticas do GitHub
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yThanos&layout=compact&theme=radical)
+![Linguagens mais usadas!](https://github-readme-stats.vercel.app/api/top-langs/?username=yThanos&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
