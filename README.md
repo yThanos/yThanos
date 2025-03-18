@@ -15,6 +15,7 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) (Principal)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Frameworks & Bibliotecas
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) (Principal)
@@ -23,7 +24,7 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Bancos de Dados
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
