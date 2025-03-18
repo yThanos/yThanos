@@ -37,12 +37,10 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - 🇺🇸 Inglês (fluente)
 
 ## Contato
-- 📧 Email: [seu-email@exemplo.com](mailto:vitorfraporti01@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vitor-rosmann](https://linkedin.com/in/vitor-fraporti)
+- 📧 Email: [vitorfraporti01@gmail.com](mailto:vitorfraporti01@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vitor-fraporti](https://linkedin.com/in/vitor-fraporti)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yThanos&show_icons=true&theme=radical)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yThanos&layout=compact&theme=radical)
 
 ---
