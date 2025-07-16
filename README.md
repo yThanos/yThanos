@@ -33,7 +33,8 @@ Tenho paixão por desenvolvimento de software e busco constantemente aprimorar m
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![DB2](https://img.shields.io/badge/-DB2-054ADA?style=flat-square&logo=ibm&logoColor=white)
-- Experiência com bancos de dados SQL e NoSQL
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### DevOps & Ferramentas
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
